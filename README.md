@@ -20,8 +20,15 @@ live video streaming project, Stream data from raspberrypi goes to Amazon Kinesi
 >I have fixed this error using library path change.
 >~~~
 >$export LD_LIBRARY_PATH=/home/pi/amazon-kinesis-video-streams-producer-sdk-cpp/kinesis-video-native-build//downloads/local/lib:$LD_LIBRARY_PATH
->~~~
+## Http Live Streaming
+
+* Implement live streaming using video.js  
+developing...  
+<br />
 <br />
 
-## HLS Streaming
+***  
+
+# AWS Iot
+## Connection of Aws-IoT and Raspberrypi using mqtt
 developing...
